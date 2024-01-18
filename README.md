@@ -12,8 +12,7 @@ This PowerShell script automates the update process for repositories cloned from
 3. Run the script in PowerShell v7
 
 # Screenshots
-<p align="center">
 ![Group 1](https://github.com/itsnotsagar/CodeCommitUpdater/assets/56265949/b098e4bf-f70a-40b2-b899-fe6a55b5b562)
 ![Group 2](https://github.com/itsnotsagar/CodeCommitUpdater/assets/56265949/a2877925-366c-44eb-b86c-efce4f4ec79f)
 ![Group 3](https://github.com/itsnotsagar/CodeCommitUpdater/assets/56265949/0709357e-63c0-4ab2-b16f-59e78664e598)
-</p>
+
